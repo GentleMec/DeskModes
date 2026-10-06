@@ -1,6 +1,6 @@
 ﻿# Launch log
 
-Launch access checked on 2026-10-06; release/package evidence below is from October 4.
+Launch access and outreach checked on 2026-10-07; release/package evidence below is from October 4.
 This records evidence and actions still needed, not a claim of
 universal hardware support. Start with [the launch plan](https://github.com/GentleMec/DeskModes/blob/main/docs/public-launch.md).
 
@@ -19,7 +19,7 @@ universal hardware support. Start with [the launch plan](https://github.com/Gent
 | App release | 1.0.2 published | Support and canonical-link patch; no display-engine, rules, settings or diagnostics change. Isolated downloaded status/diagnostics exit 0 and report DeskModes 1.0.2. No real display switch was invoked. |
 | Ko-fi profile | Text verified; approved cover awaits upload | Signed-in Chrome access restored October 6. English About and GitHub link remain visible. Approved monochrome cover is local; automated upload failed because the extension's file-URL permission is disabled. Thank-you field was empty after the earlier reload and is not saved. |
 | Ko-fi payments | Owner checks remain | Payment Settings shows both providers connected and outstanding verification requirements. Signed-out checkout and receipt unverified. Private account follow-up is kept outside this public log. |
-| First outreach | Submitted; permanent URL verified signed in | [Weekly Discovery comment](https://www.reddit.com/r/software/comments/1wvquoc/comment/peb50n7/) posted October 6. Other platform drafts and replies remain unsent. Anonymous visibility could not be verified by the web fetch. |
+| Outreach | X and two Reddit comments visible signed in; SideProject filtered | [Weekly Discovery](https://www.reddit.com/r/software/comments/1wvquoc/comment/peb50n7/), [X](https://x.com/Il0CP8LOdcSDHVV/status/2107593394583200003) and [simracing reply](https://www.reddit.com/r/simracing/comments/1wz5kq9/comment/peb9nj8/) checked at their permanent URLs. SideProject review and Windows11 moderator reply are pending. Anonymous visibility could not be verified by the web fetch. |
 | Content formatting | Earlier rendering verified; current Markdown inspected | GitHub Markdown API rendered the earlier plan, posts, content checklist, journal and release notes; tables and code blocks are retained. About screenshot rendered from current WPF source and visually inspected. |
 | October 3 profile follow-up checks | Historical failure resolved October 4 | Tall-menu fixture assumed 1,200 pixels would fit 40 rows; at 150% DPI the menu needs 1,204. Larger fake screen now uses the natural menu height. Original regression failed 1 of 5; fixed check passes 5 of 5 and full tools/check.ps1 passes 2,849 assertions. No production menu change. |
 | Demo | Script ready; recording pending | A 20–25 second physical-desk recording is optional for the first screenshot post. No real-hardware video was fabricated or recorded. |
