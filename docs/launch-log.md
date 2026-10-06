@@ -17,9 +17,9 @@ universal hardware support. Start with [the launch plan](https://github.com/Gent
 | Maintainer notifications | Subscription saved; delivery pending | Watch → Custom → Issues was saved and confirmed checked after reload on October 4. A report from another account and actual notification delivery remain unverified. |
 | Donation links | Published in app and on GitHub | README, FUNDING.yml and the 1.0.2 About Support button point to https://ko-fi.com/gentlemec. Payment acceptance remains a separate owner check. |
 | App release | 1.0.2 published | Support and canonical-link patch; no display-engine, rules, settings or diagnostics change. Isolated downloaded status/diagnostics exit 0 and report DeskModes 1.0.2. No real display switch was invoked. |
-| Ko-fi profile | Text verified; cover ready locally | Display name, English About, Website and Software category confirmed. New dark cover and its generation brief are in the local delivery folder. Automated upload requires the extension file-URL option; manual upload is available. Thank-you field was empty after reload and is not saved. |
+| Ko-fi profile | Text verified; approved cover awaits upload | Signed-in Chrome access restored October 6. English About and GitHub link remain visible. Approved monochrome cover is local; automated upload failed because the extension's file-URL permission is disabled. Thank-you field was empty after the earlier reload and is not saved. |
 | Ko-fi payments | Owner checks remain | Payment Settings shows both providers connected and outstanding verification requirements. Signed-out checkout and receipt unverified. Private account follow-up is kept outside this public log. |
-| Outreach material | Prepared | Platform drafts, tester invitation, FAQ replies, direct destinations, posting rules and image captions are linked from the plan. No messages or community posts have been sent. |
+| First outreach | Submitted; permanent URL verified signed in | [Weekly Discovery comment](https://www.reddit.com/r/software/comments/1wvquoc/comment/peb50n7/) posted October 6. Other platform drafts and replies remain unsent. Anonymous visibility could not be verified by the web fetch. |
 | Content formatting | Earlier rendering verified; current Markdown inspected | GitHub Markdown API rendered the earlier plan, posts, content checklist, journal and release notes; tables and code blocks are retained. About screenshot rendered from current WPF source and visually inspected. |
 | October 3 profile follow-up checks | Historical failure resolved October 4 | Tall-menu fixture assumed 1,200 pixels would fit 40 rows; at 150% DPI the menu needs 1,204. Larger fake screen now uses the natural menu height. Original regression failed 1 of 5; fixed check passes 5 of 5 and full tools/check.ps1 passes 2,849 assertions. No production menu change. |
 | Demo | Script ready; recording pending | A 20–25 second physical-desk recording is optional for the first screenshot post. No real-hardware video was fabricated or recorded. |
@@ -72,7 +72,7 @@ switch or user installation update was performed. The original hardware limits a
 | Notifications | Watch → Custom → Issues is saved. Have another account create a harmless issue and check arrival. | Subscription verified; delivery pending |
 | Ko-fi page | [Profile text](https://github.com/GentleMec/DeskModes/blob/main/docs/kofi-page.md) is saved; finish cover upload, reload-check thank-you and inspect signed-out checkout. | Text verified; remaining checks pending |
 | Receipt | Check any outstanding PayPal/Stripe account requirements and confirm receipt after a genuine supporter payment. | Pending; no agent payment attempted |
-| First outreach | Choose one community, recheck its rules, review and post the matching draft. Add its URL below. | Pending; owner action |
+| First outreach | Weekly Discovery rules checked; short authored introduction submitted and opened at its permanent URL. | Published October 6; review initial replies before expanding |
 
 For future app releases, keep the existing tag workflow. Bump the source version and
 move applicable Unreleased notes to that version; run the required gates, build an isolated
@@ -81,9 +81,9 @@ Do not reuse v1.0.1 or overwrite its assets to add the new Support button.
 
 ## Publication and feedback journal
 
-No community publication is recorded yet.
+The first community publication is recorded below.
 
-### October 6 launch attempt
+### October 6: first community comment
 
 The owner approved the monochrome cover and authorized starting community publication.
 The first planned post is the short r/software Weekly Discovery comment. The thread's
@@ -91,18 +91,30 @@ current fetched text allows relevant side projects with transparent authorship, 
 prohibits link spam and AI-generated content dumps. The SideProject front page was also
 rechecked; verify its submission rules before a standalone post.
 
-Chrome is not connected to browser control. The in-app Reddit page shows a CAPTCHA;
-Ko-fi Settings redirects to login. Both pages are left open for the owner. No community
-post or cover upload has been submitted. No CAPTCHA was solved or payment attempted.
+The initial in-app attempt required a CAPTCHA and Ko-fi login. The owner then connected
+signed-in Chrome tabs. No CAPTCHA was solved and no payment was attempted.
 
-The approved local cover is `../DeskModes-launch/kofi-cover-monochrome.png`, with its
-generation brief beside it. Once access is restored, publish the first item, verify
-its visible result, and replace this pending status with the actual URL and time.
+The approved cover is `../DeskModes-launch/kofi-cover-monochrome.png`, with its brief
+beside it. Chrome upload failed immediately because the extension's local-file permission
+is disabled. The owner was asked for separate permission or a manual upload.
+
+- Posted: 2026-10-06 at 21:49:42 UTC (23:49:42 Europe/Paris), from Pristine_Ad_4378.
+- Destination: [r/software Weekly Discovery](https://www.reddit.com/r/software/comments/1wvquoc/weekly_discovery_thread_october_02_2026/).
+- Result: [comment permalink](https://www.reddit.com/r/software/comments/1wvquoc/comment/peb50n7/).
+  Full body remains visible after opening the permalink in signed-in Chrome. No removal
+  notice was visible. A separate anonymous web fetch failed; broader visibility is unverified.
+- Material: short introduction covering display modes, hotkeys and automatic rules,
+  with authorship disclosed, the GitHub link and a practical improvement question. No image
+  attached; the repository links the current v1.0.2 release and screenshots.
+- Baseline: v1.0.2 ZIP download count was 2 before posting, including maintainer checks.
+- Screenshot: saved in the local delivery folder as `reddit-first-comment-2026-10-06.png`.
+- Next: answer initial questions; review results around October 8 before a SideProject post.
+  No automatic monitoring or later scheduled publication was configured.
 
 The owner confirmed on 2026-10-03 that the task is to prepare the posting plan. No community
 post or moderator message was sent. First options: the current r/software Weekly Discovery Thread or r/SideProject.
-The October 4 weekly thread welcomes relevant side projects with transparent authorship.
-Wait for feedback before another announcement; no community post has been sent.
+At that planning stage no community post had been sent. The October 6 entry supersedes
+that pending status. Wait for feedback before another announcement.
 
 Duplicate the following block for each actual post:
 

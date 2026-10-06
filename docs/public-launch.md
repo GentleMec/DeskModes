@@ -11,8 +11,8 @@ and Ko-fi. Record each actual publication URL in the launch log.
 
 | Order | Destination | Material | Timing |
 | --- | --- | --- | --- |
-| 1 | Ko-fi profile | Install the approved black-and-white cover; retain the English About and bug/idea links. | Now, after owner login. |
-| 2 | r/software Weekly Discovery Thread | Short introduction: saved display modes, hotkeys, automatic app/game rules, GitHub link and one feedback question. | First community publication, after verifying live rules and account access. |
+| 1 | Ko-fi profile | Install the approved black-and-white cover; retain the English About and bug/idea links. | Signed in; upload awaits the extension's local-file permission or a manual upload. |
+| 2 | r/software Weekly Discovery Thread | Short introduction: saved display modes, hotkeys, automatic app/game rules, GitHub link and one feedback question. | [Published October 6](https://www.reddit.com/r/software/comments/1wvquoc/comment/peb50n7/). |
 | 3 | r/SideProject | Standalone project post with the real Modes UI screenshot and a request for first-setup feedback. | After reviewing the first replies, normally at least 48 hours later. |
 | 4 | Recent relevant display-workflow discussions | Answer a specific question about presets, hotkeys or automatic rules; disclose that you develop DeskModes. | Only when the current app fits the actual question. |
 | 5 | r/Windows11 | Ask moderators whether a practical Windows display-workflow demonstration fits. | Before an announcement there. |
@@ -21,9 +21,10 @@ Do not send duplicate promotions across many threads. Use the existing GitHub bu
 suggestion forms for feedback. Review the first replies before expanding the launch;
 useful setup reports and recurring obstacles matter more than raw download counts.
 
-Browser access on October 6: Chrome is not connected to control. Reddit's in-app page
-shows a CAPTCHA, and Ko-fi Settings requires login. The pages are open for the owner;
-neither an outreach post nor the new cover has been published during this attempt.
+Chrome access was restored on October 6 using the owner's signed-in tabs. The first
+comment was submitted and verified at its permanent URL. Cover upload remains blocked
+by the ChatGPT extension's local-file permission. Ko-fi also still asks the owner to
+complete payment eligibility verification; a connected provider is not a receipt check.
 
 ## Ready-to-use materials
 
@@ -43,17 +44,17 @@ neither an outreach post nor the new cover has been published during this attemp
    Custom → Issues is saved. Confirm notification delivery from a different account.
 3. Use the Modes screenshot for the first post. A real 20-second demo can follow;
    the shot list and captions are ready in the content checklist.
-4. Choose one community below, paste its matching draft, read the current rules again
-   and stay available for replies. Record the actual post URL in the launch log.
+4. Reply to the first r/software comment's questions. Review feedback around October 8
+   before publishing the SideProject draft and Modes screenshot; recheck its live rules.
 
 ## Where to go
 
-Rules checked on 2026-10-04. Recheck on the day of posting. The agent has prepared
-materials and has not sent invitations, contacted moderators or published community posts.
+Weekly Discovery rules were rechecked in the signed-in browser on October 6 before
+publishing the first comment. Other destinations still require a check on posting day.
+No private invitations or moderator messages have been sent.
 
-Publication is now authorized. Start with one short comment in the current
-r/software Weekly Discovery Thread, or the r/SideProject draft and Modes screenshot.
-After 48 hours of feedback, adapt the next post using what people actually found useful
+Publication is authorized and the first Weekly Discovery comment is live in the owner's
+browser. After 48 hours of feedback, adapt the SideProject post using what people found useful
 or confusing. Keep announcements about the available app and disclose authorship.
 
 | Priority | Destination | What to do |

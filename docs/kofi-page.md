@@ -60,10 +60,9 @@ The built-in image tool produced a dark matte background, white DeskModes title
 and simple white monitor outlines, without colored accents. The two smaller lines read
 "Display modes · Hotkeys · Automatic rules" and "Free & open source for Windows".
 The complete brief is beside it in `kofi-cover-monochrome-prompt.txt`. This is branding.
-Upload remains pending after the owner's October 6 approval: Chrome is not currently
-connected and Ko-fi Settings in the in-app browser requires login. Chrome also requires
-the ChatGPT extension's "Allow access to file URLs" option for automated local uploads.
-The owner can upload the PNG manually.
+Chrome access and owner login were restored October 6. Upload remains pending because
+the ChatGPT extension's "Allow access to file URLs" option is disabled. Enabling it
+requires the owner's separate permission; the owner can also upload the PNG manually.
 
 ## Owner setup checks
 

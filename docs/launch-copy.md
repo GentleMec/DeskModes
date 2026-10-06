@@ -1,12 +1,13 @@
 ﻿# Launch copy
 
 Prepared drafts; the owner authorized starting publication on October 6, 2026.
-Nothing here has been sent yet; actual post URLs belong in the launch log.
+The Weekly Discovery comment was [published October 6](https://www.reddit.com/r/software/comments/1wvquoc/comment/peb50n7/).
+The remaining items are drafts; actual post URLs belong in the launch log.
 Use one audience at a time and reply to its questions before widening the launch.
 
 ## r/software Weekly Discovery Thread
 
-First option checked on October 4:
+Published destination; rules rechecked October 6:
 [Weekly Discovery Thread - October 02, 2026](https://www.reddit.com/r/software/comments/1wvquoc/weekly_discovery_thread_october_02_2026/).
 It welcomes relevant side projects and transparent self-promotion, but prohibits link
 spam and AI-generated content dumps. Review and personalize this short draft before posting;
@@ -22,8 +23,8 @@ Download and screenshots: https://github.com/GentleMec/DeskModes
 If you use several displays, what part of switching between setups would you most like to improve?
 ```
 
-Start with this comment or the SideProject post below. Wait for replies before adding
-another announcement. Keep the donation link on the project page.
+This comment is already submitted. Wait for replies before adding the SideProject
+announcement. Keep the donation link on the project page.
 
 ## Replies to existing discussions
 
