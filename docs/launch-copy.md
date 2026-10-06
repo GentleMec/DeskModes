@@ -1,6 +1,7 @@
 ﻿# Launch copy
 
-Prepared drafts for the owner to review and post. Nothing here has been sent.
+Prepared drafts; the owner authorized starting publication on October 6, 2026.
+Nothing here has been sent yet; actual post URLs belong in the launch log.
 Use one audience at a time and reply to its questions before widening the launch.
 
 ## r/software Weekly Discovery Thread

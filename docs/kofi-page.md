@@ -55,13 +55,15 @@ then on the profile page. The page shows the Software category and the GitHub we
 The thank-you message was entered, but the October 4 reload check showed an empty
 field. It is not saved yet.
 
-A darker 3:1 cover is prepared as `../DeskModes-launch/kofi-cover-dark.png` (2172 × 724).
-The built-in image tool produced an obsidian background, warm ivory DeskModes title
-and restrained champagne-gold monitor outlines. The two smaller lines read
+A monochrome 3:1 cover is approved as `../DeskModes-launch/kofi-cover-monochrome.png` (2172 × 724).
+The built-in image tool produced a dark matte background, white DeskModes title
+and simple white monitor outlines, without colored accents. The two smaller lines read
 "Display modes · Hotkeys · Automatic rules" and "Free & open source for Windows".
-The complete brief is beside it in `kofi-cover-dark-prompt.txt`. This is branding.
-Upload remains pending: Chrome requires the ChatGPT extension's "Allow access to file
-URLs" option for automated local uploads. The owner can upload the PNG manually.
+The complete brief is beside it in `kofi-cover-monochrome-prompt.txt`. This is branding.
+Upload remains pending after the owner's October 6 approval: Chrome is not currently
+connected and Ko-fi Settings in the in-app browser requires login. Chrome also requires
+the ChatGPT extension's "Allow access to file URLs" option for automated local uploads.
+The owner can upload the PNG manually.
 
 ## Owner setup checks
 

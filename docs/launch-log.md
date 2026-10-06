@@ -1,6 +1,7 @@
 ﻿# Launch log
 
-Checked on 2026-10-04. This records evidence and actions still needed, not a claim of
+Launch access checked on 2026-10-06; release/package evidence below is from October 4.
+This records evidence and actions still needed, not a claim of
 universal hardware support. Start with [the launch plan](https://github.com/GentleMec/DeskModes/blob/main/docs/public-launch.md).
 
 ## Current evidence
@@ -81,6 +82,22 @@ Do not reuse v1.0.1 or overwrite its assets to add the new Support button.
 ## Publication and feedback journal
 
 No community publication is recorded yet.
+
+### October 6 launch attempt
+
+The owner approved the monochrome cover and authorized starting community publication.
+The first planned post is the short r/software Weekly Discovery comment. The thread's
+current fetched text allows relevant side projects with transparent authorship, and
+prohibits link spam and AI-generated content dumps. The SideProject front page was also
+rechecked; verify its submission rules before a standalone post.
+
+Chrome is not connected to browser control. The in-app Reddit page shows a CAPTCHA;
+Ko-fi Settings redirects to login. Both pages are left open for the owner. No community
+post or cover upload has been submitted. No CAPTCHA was solved or payment attempted.
+
+The approved local cover is `../DeskModes-launch/kofi-cover-monochrome.png`, with its
+generation brief beside it. Once access is restored, publish the first item, verify
+its visible result, and replace this pending status with the actual URL and time.
 
 The owner confirmed on 2026-10-03 that the task is to prepare the posting plan. No community
 post or moderator message was sent. First options: the current r/software Weekly Discovery Thread or r/SideProject.

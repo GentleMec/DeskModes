@@ -2,6 +2,29 @@
 
 Start here when returning to the project. The public release is already available.
 
+## Launch sequence — October 6, 2026
+
+The owner authorized publication of the prepared launch material on October 6.
+The approved cover is the monochrome version. Public posts must describe the current
+app, disclose authorship and ask for practical feedback. Keep donation links on GitHub
+and Ko-fi. Record each actual publication URL in the launch log.
+
+| Order | Destination | Material | Timing |
+| --- | --- | --- | --- |
+| 1 | Ko-fi profile | Install the approved black-and-white cover; retain the English About and bug/idea links. | Now, after owner login. |
+| 2 | r/software Weekly Discovery Thread | Short introduction: saved display modes, hotkeys, automatic app/game rules, GitHub link and one feedback question. | First community publication, after verifying live rules and account access. |
+| 3 | r/SideProject | Standalone project post with the real Modes UI screenshot and a request for first-setup feedback. | After reviewing the first replies, normally at least 48 hours later. |
+| 4 | Recent relevant display-workflow discussions | Answer a specific question about presets, hotkeys or automatic rules; disclose that you develop DeskModes. | Only when the current app fits the actual question. |
+| 5 | r/Windows11 | Ask moderators whether a practical Windows display-workflow demonstration fits. | Before an announcement there. |
+
+Do not send duplicate promotions across many threads. Use the existing GitHub bug and
+suggestion forms for feedback. Review the first replies before expanding the launch;
+useful setup reports and recurring obstacles matter more than raw download counts.
+
+Browser access on October 6: Chrome is not connected to control. Reddit's in-app page
+shows a CAPTCHA, and Ko-fi Settings requires login. The pages are open for the owner;
+neither an outreach post nor the new cover has been published during this attempt.
+
 ## Ready-to-use materials
 
 | Need | Open |
@@ -28,7 +51,7 @@ Start here when returning to the project. The public release is already availabl
 Rules checked on 2026-10-04. Recheck on the day of posting. The agent has prepared
 materials and has not sent invitations, contacted moderators or published community posts.
 
-Outreach remains at the planning stage. Start with one short comment in the current
+Publication is now authorized. Start with one short comment in the current
 r/software Weekly Discovery Thread, or the r/SideProject draft and Modes screenshot.
 After 48 hours of feedback, adapt the next post using what people actually found useful
 or confusing. Keep announcements about the available app and disclose authorship.
