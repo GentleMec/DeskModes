@@ -72,7 +72,7 @@ switch or user installation update was performed. The original hardware limits a
 | Notifications | Watch → Custom → Issues is saved. Have another account create a harmless issue and check arrival. | Subscription verified; delivery pending |
 | Ko-fi page | [Profile text](https://github.com/GentleMec/DeskModes/blob/main/docs/kofi-page.md) is saved; finish cover upload, reload-check thank-you and inspect signed-out checkout. | Text verified; remaining checks pending |
 | Receipt | Check any outstanding PayPal/Stripe account requirements and confirm receipt after a genuine supporter payment. | Pending; no agent payment attempted |
-| First outreach | Weekly Discovery rules checked; short authored introduction submitted and opened at its permanent URL. | Published October 6; review initial replies before expanding |
+| Outreach | Weekly Discovery and contextual simracing comments plus X announcement opened at their permanent URLs. | Visible in signed-in Chrome; SideProject filtered, moderator review pending |
 
 For future app releases, keep the existing tag workflow. Bump the source version and
 move applicable Unreleased notes to that version; run the required gates, build an isolated
@@ -108,13 +108,56 @@ is disabled. The owner was asked for separate permission or a manual upload.
   attached; the repository links the current v1.0.2 release and screenshots.
 - Baseline: v1.0.2 ZIP download count was 2 before posting, including maintainer checks.
 - Screenshot: saved in the local delivery folder as `reddit-first-comment-2026-10-06.png`.
-- Next: answer initial questions; review results around October 8 before a SideProject post.
+- Next at that point: review initial replies before expanding. The owner's October 7
+  request to broaden outreach superseded that timing recommendation.
   No automatic monitoring or later scheduled publication was configured.
 
 The owner confirmed on 2026-10-03 that the task is to prepare the posting plan. No community
 post or moderator message was sent. First options: the current r/software Weekly Discovery Thread or r/SideProject.
 At that planning stage no community post had been sent. The October 6 entry supersedes
-that pending status. Wait for feedback before another announcement.
+that pending status.
+
+### October 7: testing request and broader outreach
+
+The owner requested more suitable communities and contextual monitor replies,
+explicitly asked for a testing/bug/improvement invitation, and signed in to X.
+
+- Weekly Discovery: edited the existing comment to ask users to test restoring their
+  layout, report bugs or confusing setup steps, and suggest improvements. The saved
+  edit remains visible after reload. Proof: `reddit-feedback-request-2026-10-07.png`.
+- X: [announcement](https://x.com/Il0CP8LOdcSDHVV/status/2107593394583200003),
+  published at 00:06 Europe/Paris from the owner's account. Modes, hotkeys and app/game
+  rules are named, with an explicit tester request. The own profile showed one post,
+  and its permanent page contains the submitted text and GitHub link card. No image
+  was attached. Proof: `x-first-post-2026-10-07.png`.
+- SideProject: [text submission](https://www.reddit.com/r/SideProject/comments/1wzfmze/deskmodes_a_free_windows_tool_for_display_setups/)
+  titled "DeskModes - A free Windows tool for display setups, hotkeys and automatic rules".
+  The [sidebar format](https://old.reddit.com/r/SideProject/) and submission page were
+  checked. The post requests testing, bugs and ideas and links both GitHub forms.
+  Its page explicitly says "Sorry, this post was removed by Reddit's filters."
+  A single moderator review request was sent; "Message sent" appeared and the form
+  reset. Approval is pending; no repost was attempted. Proofs:
+  `reddit-sideproject-2026-10-07.png`, `reddit-sideproject-modmail-2026-10-07.png`.
+- Simracing: [contextual reply](https://www.reddit.com/r/simracing/comments/1wz5kq9/comment/peb9nj8/)
+  to a seven-hour-old desk/rig question. Rule 4 was expanded and read: developers can
+  participate and promote reasonably while engaging with the community. The reply
+  asks for GPU/connections, separates laptop input switching and cable requirements
+  from same-PC display profiles, discloses authorship and invites testing feedback.
+  It makes no compatibility promise for that desk. Full text remains visible at its
+  permanent URL without a removal notice. Proof: `reddit-simracing-reply-2026-10-07.png`.
+- Windows11: sent the prepared moderator inquiry, adapted to request a practical
+  Work/Game/TV introduction with UI screenshots and a testing invitation. The form
+  reset after submission. No community announcement was posted; moderator reply
+  pending. Proof: `reddit-windows11-modmail-2026-10-07.png`.
+
+These browser results establish submission and signed-in visibility, not independent
+anonymous visibility or successful installations. No external tester setup report
+has been verified. The release remains v1.0.2; these are outreach/documentation changes.
+Ko-fi cover upload and payment eligibility remain owner steps from the October 6 entry.
+Next: respond to these threads, review moderator replies, and gather five independent
+setup reports. Record a short real-hardware demo for a later X/community follow-up;
+DEV, Mastodon and existing Discord/forums are candidates requiring owner access and
+posting-day rules. No later run or automatic publication was scheduled.
 
 Duplicate the following block for each actual post:
 

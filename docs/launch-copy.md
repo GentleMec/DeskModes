@@ -2,8 +2,9 @@
 
 Prepared drafts; the owner authorized starting publication on October 6, 2026.
 The Weekly Discovery comment was [published October 6](https://www.reddit.com/r/software/comments/1wvquoc/comment/peb50n7/).
-The remaining items are drafts; actual post URLs belong in the launch log.
-Use one audience at a time and reply to its questions before widening the launch.
+On October 7 the owner requested broader outreach. X and a contextual simracing reply
+are published; the SideProject submission is filtered pending moderator review.
+Actual URLs and verification limits belong in the launch log. Other items remain drafts.
 
 ## r/software Weekly Discovery Thread
 
@@ -20,11 +21,11 @@ It's portable and has no installer or telemetry. I've tested the core workflow o
 
 Download and screenshots: https://github.com/GentleMec/DeskModes
 
-If you use several displays, what part of switching between setups would you most like to improve?
+Testing on other setups would really help. If you try it, please tell me whether switching away and back restores your layout, any bugs or confusing steps you run into, and what you'd like improved. You can reply here or use the bug and suggestion forms on GitHub.
 ```
 
-This comment is already submitted. Wait for replies before adding the SideProject
-announcement. Keep the donation link on the project page.
+This comment is already submitted; the explicit testing request was saved October 7.
+Keep the donation link on the project page.
 
 ## Replies to existing discussions
 
@@ -38,9 +39,17 @@ Older examples are research context:
 [switching displays with hotkeys](https://www.reddit.com/r/windows/comments/1h6qkci/).
 Their age makes them poor first launch destinations. DeskModes does not promise
 cross-PC KVM switching, monitor input-source switching or cloned-display profiles.
-Do not revive old threads with a generic promotion message. No replies have been sent.
+Do not revive old threads with a generic promotion message. A contextual reply was
+[published October 7](https://www.reddit.com/r/simracing/comments/1wz5kq9/comment/peb9nj8/)
+in a seven-hour-old desk/rig question. It explains that DeskModes handles the same-PC
+display selection after wiring is resolved; it does not solve the author's laptop
+input switching or single-cable requirement. The reply asks about the GPU/connections,
+discloses authorship and invites bug reports and improvement ideas.
 
 ## r/SideProject
+
+Submitted October 7; [Reddit filtered the post](https://www.reddit.com/r/SideProject/comments/1wzfmze/deskmodes_a_free_windows_tool_for_display_setups/).
+A moderator review was requested. Do not repost while that review is pending.
 
 Title:
 
@@ -51,21 +60,23 @@ DeskModes - A free Windows tool for display setups, hotkeys and automatic rules
 Body:
 
 ```text
-I built DeskModes to make it easier to move between work screens, a gaming monitor and a TV without rebuilding the desktop each time.
+I built DeskModes for moving between work screens, a gaming monitor and a TV without rebuilding the desktop each time.
 
-Save named display modes and choose them from the tray or with a hotkey. It remembers layouts, refresh rates and window positions. Optional rules can select a mode while any of your chosen games or programs is running, then return after the last one closes. There are also brightness, picture preset, HDR and audio options where the hardware supports them.
+Save named display modes and choose them from the tray or with a hotkey. It remembers layouts, refresh rates and window positions. Rules can select a mode while any chosen game or program is running, then return after the last one closes. Brightness, picture presets, HDR and audio settings are optional where the hardware supports them.
 
-It's free, open source and portable. No installer, administrator rights, app account or telemetry.
+It's free, open source and portable, with no installer or telemetry. I've tested the core workflow on my three-display desktop; laptops, docks, multiple GPUs and identical panels still need validation.
 
-I've tested the core workflow on my three-display desktop. Laptops, docks, multiple GPUs and identical panels are still experimental.
+I'd really appreciate people testing it on their own setups. Does switching away and back restore your layout? Is creating a mode or a rule clear? Bug reports, confusing steps and ideas for improvements would all help. You can reply here or use the GitHub forms.
 
 Download and screenshots: https://github.com/GentleMec/DeskModes
 
-I'd love feedback on the first setup: is it clear how to create a mode and a rule? What would make the app more useful at your desk? Suggestions and bug reports both have forms on GitHub.
+Report a bug: https://github.com/GentleMec/DeskModes/issues/new?template=bug_report.yml
+Suggest an improvement: https://github.com/GentleMec/DeskModes/issues/new?template=feature_request.yml
 ```
 
-Attach `docs/images/settings-modes.png`. Caption: "Named display modes and their hotkeys.
-Current interface with an example desk." Follow any extra rules shown in the submission form.
+The submitted post has no attached image; the repository supplies the screenshots.
+For a future permitted illustrated post, use `docs/images/settings-modes.png` with
+the caption "Named display modes and their hotkeys. Current interface with an example desk."
 
 ## r/software
 
@@ -110,7 +121,9 @@ Project: https://github.com/GentleMec/DeskModes
 Thanks!
 ```
 
-Draft only. Wait for a reply before preparing a post for that community.
+An inquiry was sent October 7 asking whether current UI screenshots and a practical
+Work/Game/TV workflow with a testing request fit. No announcement has been posted there.
+Wait for the moderator's reply before preparing a community post.
 
 ## Show HN: owner-written submission
 
@@ -147,6 +160,14 @@ Trying it is completely optional. Thanks!
 ```
 
 ## Short post for an existing personal account
+
+Published on [X, October 7](https://x.com/Il0CP8LOdcSDHVV/status/2107593394583200003):
+
+```text
+I built DeskModes: free, open-source Windows display modes, hotkeys and automatic app/game rules. Multi-monitor testers wanted! Please share bugs, confusing setup steps and improvement ideas. https://github.com/GentleMec/DeskModes #Windows #OpenSource
+```
+
+Longer draft for another suitable personal account:
 
 ```text
 DeskModes is out: a free, portable Windows tool for display modes, hotkeys and automatic rules. Save Work, Game or TV setups, then switch from the tray or a shortcut. Optional brightness, HDR and audio settings too.

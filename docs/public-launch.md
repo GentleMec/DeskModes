@@ -2,9 +2,9 @@
 
 Start here when returning to the project. The public release is already available.
 
-## Launch sequence — October 6, 2026
+## Launch sequence — October 7, 2026
 
-The owner authorized publication of the prepared launch material on October 6.
+The owner authorized publication on October 6 and broader outreach on October 7.
 The approved cover is the monochrome version. Public posts must describe the current
 app, disclose authorship and ask for practical feedback. Keep donation links on GitHub
 and Ko-fi. Record each actual publication URL in the launch log.
@@ -12,10 +12,11 @@ and Ko-fi. Record each actual publication URL in the launch log.
 | Order | Destination | Material | Timing |
 | --- | --- | --- | --- |
 | 1 | Ko-fi profile | Install the approved black-and-white cover; retain the English About and bug/idea links. | Signed in; upload awaits the extension's local-file permission or a manual upload. |
-| 2 | r/software Weekly Discovery Thread | Short introduction: saved display modes, hotkeys, automatic app/game rules, GitHub link and one feedback question. | [Published October 6](https://www.reddit.com/r/software/comments/1wvquoc/comment/peb50n7/). |
-| 3 | r/SideProject | Standalone project post with the real Modes UI screenshot and a request for first-setup feedback. | After reviewing the first replies, normally at least 48 hours later. |
-| 4 | Recent relevant display-workflow discussions | Answer a specific question about presets, hotkeys or automatic rules; disclose that you develop DeskModes. | Only when the current app fits the actual question. |
-| 5 | r/Windows11 | Ask moderators whether a practical Windows display-workflow demonstration fits. | Before an announcement there. |
+| 2 | r/software Weekly Discovery Thread | Modes, hotkeys, automatic rules and GitHub; explicit request to test, report bugs and suggest improvements. | [Published October 6](https://www.reddit.com/r/software/comments/1wvquoc/comment/peb50n7/); testing request saved October 7. |
+| 3 | X | Short personal announcement inviting multi-monitor testers; GitHub link. | [Published October 7](https://x.com/Il0CP8LOdcSDHVV/status/2107593394583200003). |
+| 4 | r/SideProject | Text post asking for first-setup testing, bugs and ideas; screenshots linked on GitHub. | [Submitted October 7](https://www.reddit.com/r/SideProject/comments/1wzfmze/deskmodes_a_free_windows_tool_for_display_setups/); removed by Reddit filters. Moderator review requested; no repost. |
+| 5 | Recent relevant display-workflow discussions | Answer the specific question and disclose authorship; describe connection and compatibility limits. | [One desk/rig reply published October 7](https://www.reddit.com/r/simracing/comments/1wz5kq9/comment/peb9nj8/). Continue only where the current app fits. |
+| 6 | r/Windows11 | Ask whether a practical Windows display-workflow introduction with screenshots fits. | Inquiry sent October 7; await moderator reply before a post. |
 
 Do not send duplicate promotions across many threads. Use the existing GitHub bug and
 suggestion forms for feedback. Review the first replies before expanding the launch;
@@ -51,20 +52,51 @@ complete payment eligibility verification; a connected provider is not a receipt
 
 Weekly Discovery rules were rechecked in the signed-in browser on October 6 before
 publishing the first comment. Other destinations still require a check on posting day.
-No private invitations or moderator messages have been sent.
+No private tester invitations have been sent. Moderator inquiries were sent to
+r/SideProject and r/Windows11 on October 7.
 
-Publication is authorized and the first Weekly Discovery comment is live in the owner's
-browser. After 48 hours of feedback, adapt the SideProject post using what people found useful
-or confusing. Keep announcements about the available app and disclose authorship.
+Publication is authorized. The owner requested expanding beyond the first comment;
+the live links and moderation status are recorded above. Answer questions and collect
+setup reports before another round. Keep announcements about the available app and
+disclose authorship.
 
 | Priority | Destination | What to do |
 | --- | --- | --- |
 | First option | [r/software Weekly Discovery Thread](https://www.reddit.com/r/software/comments/1wvquoc/weekly_discovery_thread_october_02_2026/) | Relevant side projects and transparent self-promotion are allowed. Keep the comment short and personal; the thread prohibits link spam and AI-generated content dumps. Use the short draft; recheck the active weekly thread before posting. |
-| Alternative first post | [r/SideProject](https://www.reddit.com/r/SideProject/) · [create post](https://www.reddit.com/r/SideProject/submit) | Share the project and ask for feedback. Its [sidebar](https://old.reddit.com/r/SideProject/) requests a project name followed by a short description for link submissions. Use the matching draft and Modes screenshot. |
+| Submitted; review pending | [r/SideProject](https://www.reddit.com/r/SideProject/) | Project name and short description format checked. The October 7 text post was filtered; moderator review requested. Do not resubmit it or treat it as publicly approved. |
 | Later | [r/software](https://www.reddit.com/r/software/) · [create post](https://www.reddit.com/r/software/submit) | Current rules allow open-source software promotion and reserve Release posts for new programs or substantial updates. DeskModes is free and MIT licensed. Use the software draft and appropriate Release flair; do not repost each patch. There is an undisclosed account-karma threshold. |
 | Optional | [Show HN](https://news.ycombinator.com/submit) · [guidelines](https://news.ycombinator.com/showhn.html) | Submit the runnable project and be available to discuss it. Write your own text: the [moderator's guidance](https://news.ycombinator.com/item?id=22336638) says not to use LLM-generated or edited text on HN. The copy file provides facts, not an HN post. Do not request upvotes. |
 | Ask first | [r/Windows11](https://www.reddit.com/r/Windows11/) · [message moderators](https://www.reddit.com/message/compose?to=%2Fr%2FWindows11) | Current rules say Windows compatibility alone does not make a post relevant. Ask whether a display-workflow demo fits. The [October help thread](https://www.reddit.com/r/Windows11/comments/1wuxl8s/simple_questions_and_help_thread_month_of_october/) is for help; do not treat it as a launch thread. |
 | Direct feedback | Existing friends or communities you participate in | Invite 5–10 willing Windows multi-monitor users with the tester draft. The owner chooses recipients; no private chat or contact list is assumed. |
+
+### Contextual discussion route
+
+Use recent questions in r/simracing, r/pcmasterrace and Windows display discussions
+about choosing work/game/TV screens, restoring arrangements or assigning hotkeys.
+Read the full question, replies and current community rules. Start with a useful
+answer, disclose authorship and add one project link only when the app addresses a
+part of that workflow. Ask for the missing setup details before promising a result.
+Skip solved questions and announcements by other makers. DeskModes does not switch
+monitor inputs between PCs, supply extra GPU outputs or toggle NVIDIA Surround.
+
+The October 7 simracing reply is explicitly conditional: the author first needs to
+resolve office wiring and laptop/PC input selection. DeskModes can then address
+named display modes on the gaming PC; it is not a solution to the entire question.
+
+### Additional channels
+
+| Channel | Useful material | Prerequisite |
+| --- | --- | --- |
+| X | One short Work → Game → Back demonstration and an invitation to test; follow up with a verified improvement. | Existing signed-in account; initial text post is live. |
+| DEV | A practical article explaining saved display layouts and process rules, with real UI examples and the limitations. | Owner account; check current submission/content rules before publishing. |
+| Mastodon / Fosstodon | A concise FOSS introduction with a real screenshot and a testing question; engage with replies. | Owner account and the server's [current code of conduct](https://hub.fosstodon.org/coc/). |
+| Existing Discord/forum communities | Answer a relevant question or use a designated project showcase channel. | Owner access and current channel rules; no private messages or unsolicited invitations assumed. |
+
+Do not use these generated drafts on r/opensource: its [current rules](https://www.reddit.com/r/opensource/)
+prohibit AI-generated content. Show HN likewise requires the owner's own text.
+Accounts were not created on additional networks, and no automatic posting or monitoring
+was configured. A real-hardware clip remains to be recorded; rendered UI previews
+do not prove a physical monitor switch.
 
 GitHub Issues provides one public place for bugs and suggestions; a new support chat
 is not needed for this launch. If a post is removed, read the reason and use the community's
